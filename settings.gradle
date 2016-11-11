@@ -1,0 +1,8 @@
+rootProject.name = 'jsonkt'
+include 'jackson'
+findProject(':jackson')?.name = 'jsonkt-jackson'
+include 'gson'
+findProject(':gson')?.name = 'jsonkt-gson'
+include 'core'
+findProject(':core')?.name = 'jsonkt-core'
+

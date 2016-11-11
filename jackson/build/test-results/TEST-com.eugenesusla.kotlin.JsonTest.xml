@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.eugenesusla.kotlin.JsonTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-11-02T03:50:36" hostname="eugene-ubuntu-U36SD" time="0.281">
+  <properties/>
+  <testcase name="example" classname="com.eugenesusla.kotlin.JsonTest" time="0.281"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
